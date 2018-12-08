@@ -1,0 +1,16 @@
+1
+Áo thun tay dài
+12
+100000
+2
+Áo thun tay lững
+12
+100000
+3
+Áo thun tay ngắn
+15
+2000000
+4
+Áo ba lỗ
+78
+1333
